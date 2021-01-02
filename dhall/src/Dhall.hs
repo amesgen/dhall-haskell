@@ -134,7 +134,7 @@ module Dhall
     , rawInput
     , (>$<)
     , (>*<)
-    , Result
+    , Result(..)
 
     -- * Re-exports
     , Natural
